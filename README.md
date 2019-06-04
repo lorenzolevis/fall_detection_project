@@ -7,7 +7,7 @@ Find the best classification algorithm between:
  - Support Vector Machine 
  - Random Forest Tree
  - K-nearest Neighbor
- - Linear Regression
+ - Naive-bayes
 
 ## Dataset
 The dataset is available on Kaggle (at: [Fall Detection - Dataset](https://www.kaggle.com/pitasr/falldata/version/1)).

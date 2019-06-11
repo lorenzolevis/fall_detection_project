@@ -5,9 +5,10 @@
 Find the best classification algorithm between:
 
  - Support Vector Machine 
- - Random Forest Tree
  - K-nearest Neighbor
  - Naive-bayes
+ - Random Forest Tree
+ - Decision Tree
 
 ## Dataset
 The dataset is available on Kaggle (at: [Fall Detection - Dataset](https://www.kaggle.com/pitasr/falldata/version/1)).
@@ -40,3 +41,7 @@ _Özdemir, Ahmet Turan, and Billur Barshan. “Detecting Falls with Wearable Sen
 - Running (5)
 
 As shown, the number of classes is high and is not good for classification problem. The comparison of these **three or four** algorithm helps to detect which ones is the best on this kind of problems
+
+#Execution
+the requirements.file contains the list of required module for execution.
+It's possible execute the **script.py** but the **Notebook_project.ipynb** is to prefer because contains more detail about feature distribution and more graph.

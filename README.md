@@ -42,6 +42,6 @@ _Özdemir, Ahmet Turan, and Billur Barshan. “Detecting Falls with Wearable Sen
 
 As shown, the number of classes is high and is not good for classification problem. The comparison of these **three or four** algorithm helps to detect which ones is the best on this kind of problems
 
-#Execution
+# Execution
 the requirements.file contains the list of required module for execution.
 It's possible execute the **script.py** but the **Notebook_project.ipynb** is to prefer because contains more detail about feature distribution and more graph.
